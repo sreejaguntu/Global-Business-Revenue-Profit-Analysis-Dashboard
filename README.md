@@ -54,8 +54,7 @@ Business Metrics Analysis & Insights
 
 📸 Screenshots
 
-(Optional: Include images of your dashboard here)
-
+<img width="1577" height="662" alt="image" src="https://github.com/user-attachments/assets/45d91735-284a-442c-82f0-73f251b50d69" />
 
 
 
